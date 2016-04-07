@@ -1,4 +1,10 @@
 {
-    "preset": "airbnb",
-    "validateIndentation": 4
+    "preset": "wordpress",
+    "requireCapitalizedComments": null,
+    "disallowSpacesInFunctionExpression": null,
+    "disallowSpacesInAnonymousFunctionExpression": null,
+    "disallowTrailingWhitespace": null,
+    "requireSpacesInsideParentheses": null,
+    "requireYodaConditions": null,
+    "disallowTrailingComma": null
 }
